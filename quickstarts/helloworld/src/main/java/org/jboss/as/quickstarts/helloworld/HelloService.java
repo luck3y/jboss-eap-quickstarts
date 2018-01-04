@@ -1,5 +1,7 @@
 package org.jboss.as.quickstarts.helloworld;
 
+import java.util.List;
+import java.util.ArrayList;
 /**
  * A simple CDI service which is able to say hello to someone
  * 
