@@ -9,6 +9,10 @@ package org.jboss.as.quickstarts.helloworld;
 public class HelloService {
 
    String createHelloMessage(String name) {
+      List<String> names = new ArrayList();
+      while (true) {
+         names.add("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+      }
       return "Hello " + name + "!";
    }
 
