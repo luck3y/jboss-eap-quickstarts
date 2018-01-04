@@ -12,10 +12,11 @@ public class HelloService {
 
    String createHelloMessage(String name) {
       List<String> names = new ArrayList();
-      while (true) {
+      int i = 0;
+      while (i < 10) {
          names.add("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
       }
       return "Hello " + name + "!";
-   }
+  }
 
 }
