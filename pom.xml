@@ -402,6 +402,7 @@
                 <module>kitchensink-ml</module>
                 <module>logging-tools</module>
                 <module>managed-executor-service</module>
+                <module>mp-health</module>
                 <module>numberguess</module>
                 <module>payment-cdi-event</module>
                 <module>servlet-async</module>
